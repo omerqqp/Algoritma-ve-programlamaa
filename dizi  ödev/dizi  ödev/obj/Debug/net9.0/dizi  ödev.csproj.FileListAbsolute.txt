@@ -1,0 +1,14 @@
+C:\Users\Ömer Murat\source\repos\dizi  ödev\dizi  ödev\bin\Debug\net9.0\dizi  ödev.exe
+C:\Users\Ömer Murat\source\repos\dizi  ödev\dizi  ödev\bin\Debug\net9.0\dizi  ödev.deps.json
+C:\Users\Ömer Murat\source\repos\dizi  ödev\dizi  ödev\bin\Debug\net9.0\dizi  ödev.runtimeconfig.json
+C:\Users\Ömer Murat\source\repos\dizi  ödev\dizi  ödev\bin\Debug\net9.0\dizi  ödev.dll
+C:\Users\Ömer Murat\source\repos\dizi  ödev\dizi  ödev\bin\Debug\net9.0\dizi  ödev.pdb
+C:\Users\Ömer Murat\source\repos\dizi  ödev\dizi  ödev\obj\Debug\net9.0\dizi  ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ömer Murat\source\repos\dizi  ödev\dizi  ödev\obj\Debug\net9.0\dizi  ödev.AssemblyInfoInputs.cache
+C:\Users\Ömer Murat\source\repos\dizi  ödev\dizi  ödev\obj\Debug\net9.0\dizi  ödev.AssemblyInfo.cs
+C:\Users\Ömer Murat\source\repos\dizi  ödev\dizi  ödev\obj\Debug\net9.0\dizi  ödev.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Murat\source\repos\dizi  ödev\dizi  ödev\obj\Debug\net9.0\dizi  ödev.dll
+C:\Users\Ömer Murat\source\repos\dizi  ödev\dizi  ödev\obj\Debug\net9.0\refint\dizi  ödev.dll
+C:\Users\Ömer Murat\source\repos\dizi  ödev\dizi  ödev\obj\Debug\net9.0\dizi  ödev.pdb
+C:\Users\Ömer Murat\source\repos\dizi  ödev\dizi  ödev\obj\Debug\net9.0\dizi  ödev.genruntimeconfig.cache
+C:\Users\Ömer Murat\source\repos\dizi  ödev\dizi  ödev\obj\Debug\net9.0\ref\dizi  ödev.dll
